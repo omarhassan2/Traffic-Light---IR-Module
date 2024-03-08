@@ -7,12 +7,12 @@ Welcome to the Electronics Project! This repository features two essential elect
 1. **Traffic Light Circuit**
    - Simulates a basic traffic signal.
    - Great for understanding sequential logic and timers.
-   - ![Traffic Light Circuit Diagram](images/traffic_light_circuit_diagram.png)
+   - ![Traffic Light Circuit Diagram](Traffic%20Light%20Circuit.png)
 
 2. **IR Module using Op-Amp**
    - Detects infrared signals for applications like obstacle detection.
    - Utilizes an operational amplifier (op-amp) to amplify weak IR signals.
-   - ![IR Module Circuit Diagram](images/ir_module_circuit_diagram.png)
+   - ![IR Module Circuit Diagram](IR%20Module%20using%20Op-Amp.png)
 
 ## Usage
 
